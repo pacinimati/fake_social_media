@@ -4,7 +4,7 @@ const mysql = require('mysql2/promise');
   host: 'localhost',
   user: 'root',
   password: '',
-  database: 'blog_api',
+  database: '',
 });
 
 module.exports = pool;
